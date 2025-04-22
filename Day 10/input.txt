@@ -1,0 +1,14 @@
+# create_input_file.py
+
+with open("input.txt", "w") as file:
+    file.write("""This is a line with text.
+
+This line is followed by a blank line.
+
+Python is awesome!
+
+
+
+
+End of file.
+""")

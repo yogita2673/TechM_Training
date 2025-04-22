@@ -1,0 +1,14 @@
+Name: John Doe
+Age: 28
+Occupation: Software Developer
+Country: USA
+
+Name: Alice Smith
+Age: 34
+Occupation: Data Scientist
+Country: UK
+
+Name: Bob Johnson
+Age: 45
+Occupation: Teacher
+Country: Canada

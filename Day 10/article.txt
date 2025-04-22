@@ -1,0 +1,3 @@
+PYTHON is a powerful language.
+I love learning PYTHON every day.
+python is used for web scraping and automation.
